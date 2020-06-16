@@ -5,6 +5,7 @@ class Owner
  end
   def species
     @species == human
+  end
 end
 
 
